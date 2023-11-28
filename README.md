@@ -1,15 +1,13 @@
-# moc-templates
+# SouND APP
 
-This repository serves two purposes:
+This is just a simple minded program to display the sound waveform.  Will eventually do a wavelet decomplisition
+to move from the time domain to the frequency domain.
 
-- It may be used as a template repository when creating new repositories in the [CCI-MOC][] organization.
-- It is the canonical location of the `LICENSE` and `CONTRIBUTING.md` files.
-
-[cci-moc]: https://github.com/CCI-MOC/
+Warning, this is not production code, it is was just done for an example and nothing more.
 
 ## Contributing
 
-We'd love to have you contribute! Please refer to our [contribution
+I will listen to any suggestions that you want to make [contribution
 guidelines](CONTRIBUTING.md) for details.
 
 ## License
